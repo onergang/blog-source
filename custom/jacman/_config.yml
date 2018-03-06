@@ -39,7 +39,7 @@ theme_color:
 
 
 #### Font
-ShowCustomFont: true
+# ShowCustomFont: true
 
 # 代码高亮主题
 available: default | night
