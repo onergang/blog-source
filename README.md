@@ -17,7 +17,6 @@
 
    ```
    npm install
-   npm install hexo -g
    ```
 
 2. 下载主题
