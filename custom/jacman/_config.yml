@@ -17,7 +17,7 @@ widgets:
 - category
 - tag
 - links
-- rss
+#- rss
 #- douban
 ## provide seven widgets:category,tag,rss,archive,tagcloud,links,weibo,douban
 
