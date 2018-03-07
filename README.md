@@ -1,5 +1,5 @@
-# blogSource
-博客源码
+# blog-source
+oner.tech 博客源码, 用于备份，切换不同电脑可以快速搭建好。
 
  ![hexo](https://hexo.io/icon/favicon-32x32.png)
 
