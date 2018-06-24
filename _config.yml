@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 高岗的博客
-subtitle: 技术分享，交流。每一天跨越自己多一段，梦和爱和相信的力量。❤
-description: 每天进步一点，以好学之心，假之以年，则不日而化矣。
-author: GaoGang
+title: 一只特立独行的猿
+subtitle: 每一天跨越自己多一段，<br/>梦和爱和相信的力量。
+description: 好学之心，假之以年，<br/>则不日而化矣。
+author: 高岗
 language: zh-CN
 timezone:
 
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: jacman
+theme: next
 
 # Stylus
 stylus:
